@@ -1,4 +1,4 @@
-package practice11;
+package practice12;
 
 /**
  * @author Dylan Wei

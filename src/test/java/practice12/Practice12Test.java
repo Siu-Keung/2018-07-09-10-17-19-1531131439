@@ -1,4 +1,4 @@
-package practice13;
+package practice12;
 import org.junit.Before;
 import org.junit.Test;
 import java.io.ByteArrayOutputStream;
@@ -12,7 +12,7 @@ import static org.fest.assertions.api.Assertions.assertThat;
  * @author Dylan Wei
  * @date 2018-07-10 16:08
  */
-public class Practice13Test {
+public class Practice12Test {
     private Klass klass;
     private ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
